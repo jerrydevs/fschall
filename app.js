@@ -43,7 +43,7 @@ const csvQuestions = [];
 
   // write 
   const csvWriter = createCsvWriter({
-    path: './siri_questions.csv',
+    path: './Jerry_Zhang_FUNpreselection_siri_questions.csv',
     header: [{ id: 'question', title: 'QUESTION' }],
   });
 
